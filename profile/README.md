@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150/333333/FFFFFF?text=CS" alt="Cedric Studio Logo" width="120" height="120" style="border-radius: 50%;">
+  <img src="logo.png" alt="cedricode Logo" width="120" height="120" style="border-radius: 50%;">
   <h1>Cedric Studio</h1>
   <p><strong>High-Performance Web Solutions for Taiwanese Industries</strong></p>
   <p>專為台灣產業打造的高效能靜態網站 | 美甲・傳產・診所・職人</p>
