@@ -23,7 +23,7 @@
 
 We don't just build websites; we engineer **digital assets** that load instantly and convert visitors.
 
-Cedric Studio 採用透明且直觀的報價模式：**「一次性建置費 (Setup Fee)」** 搭配 **「基礎維運費 (Infrastructure Fee)」**。
+Cedricode Studio 採用透明且直觀的報價模式：**「一次性建置費 (Setup Fee)」** 搭配 **「基礎維運費 (Infrastructure Fee)」**。
 您無需擔心複雜的授權問題，我們專注於交付極速、安全且高轉換率的數位門面，並確保其 24/7 穩定運行。
 
 ### 🛠 Tech Stack & Infrastructure
@@ -75,5 +75,5 @@ Cedric Studio 採用透明且直觀的報價模式：**「一次性建置費 (Se
 ---
 
 <div align="center">
-  <p><sub>© 2026 Cedric Studio. Built with the Jamstack.</sub></p>
+  <p><sub>© 2026 Cedricode Studio. Built with the Jamstack.</sub></p>
 </div>
