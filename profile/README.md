@@ -1,5 +1,6 @@
 <div align="center">
   <img src="logo.png" alt="cedricode Logo" width="120" height="120" style="border-radius: 50%;">
+  <br>
   <img src="title.svg" alt="Cedricode Studio" width="280" height="40">
   <p><strong>High-Performance Web Solutions for Taiwanese Industries</strong></p>
   <p>專為台灣產業打造的高效能靜態網站 | 美甲・傳產・診所・職人</p>
