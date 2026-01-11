@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.png" alt="cedricode Logo" width="120" height="120" style="border-radius: 50%;">
-  <h1>Cedric Studio</h1>
+  <h1><span style="color: #17B8A4;">Cedri</span><span style="color: #FFB84D;">code</span><span style="color: #17B8A4;"> Studio</span></h1>
   <p><strong>High-Performance Web Solutions for Taiwanese Industries</strong></p>
   <p>專為台灣產業打造的高效能靜態網站 | 美甲・傳產・診所・職人</p>
   
